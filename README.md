@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mabdullahcanbaz
 - 👀 I’m interested in Applied Machine Learning, Cybersecurity, and Network Science.
-- 🌱 I’m currently learning Advanced ML/AI applications.
+- 🌱 I’m a data scientist and software engineer working on advanced ML/AI applications.
 - 💞️ I’m looking to collaborate on anything involves algorithm-based desicion making.
 - 📫 How to reach me canbazma@gmail.com
 
